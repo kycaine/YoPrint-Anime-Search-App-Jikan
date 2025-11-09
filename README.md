@@ -4,7 +4,7 @@ This app allows users to search anime using the *Jikan API*, browse paginated re
 
 
 ## Live Demo
-*[View Live App Here](https://your-deployment-link.netlify.app/)*
+*[View Live App Here](https://imaginative-piroshki-8d3b2d.netlify.app//)*
 
 
 ## Overview
